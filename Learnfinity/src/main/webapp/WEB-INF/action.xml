@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<actions>
+<action uri="/adduser" class="com.vast.web.AddUser"/>
+<action uri="/checkuser" class="com.vast.web.CheckUser"/>
+<action uri="/pdfdownloadcpp" class="com.vast.web.DownloadCpp"/>
+<action uri="/pdfdownloadhtml" class="com.vast.web.DownloadHTML"/>
+<action uri="/pdfdownloadjava" class="com.vast.web.DownloadJava"/>
+<action uri="/pdfdownloadjs" class="com.vast.web.DownloadJS"/>
+<action uri="/pdfdownloadreact" class="com.vast.web.DownloadReact"/>
+<action uri="/pdfdownloadsql" class="com.vast.web.DownloadSQL"/>
+<action uri="/logout" class="com.vast.web.DoLogoutAction"/>
+</actions>
